@@ -7,7 +7,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.docstore.document import Document
 import os
 
-API_KEY = st.secrets["secret_key"]
+API_KEY = st.secrets["API_KEY"]
 TXT_FILE = "db.txt"  # Text file containing knowledge base content
 
 # Validate API key
