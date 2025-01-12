@@ -1,0 +1,11 @@
+langchain_community
+langchain
+langchain_openai
+langchain_core
+langchain_anthropic
+openai
+faiss-cpu
+gunicorn
+streamlit
+pypdf
+tabula-py
